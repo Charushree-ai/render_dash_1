@@ -64,7 +64,7 @@ controls = dbc.Card(
 
 app.layout = dbc.Container(
     [
-        html.H1("Iris k-means clustering"),
+        html.H1("Clustering"),
         html.Hr(),
         dbc.Row(
             [
